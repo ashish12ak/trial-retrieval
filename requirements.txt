@@ -1,8 +1,8 @@
+pyserini
 altair
 numpy
 pandas
 pydeck
 streamlit
-torch
 faiss-cpu
-pyserini
+torch
